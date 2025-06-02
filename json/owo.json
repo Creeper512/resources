@@ -388,89 +388,158 @@
 			}
 		]
 	},
-    "蔚蓝档案": {
-        "type": "image",
-        "container": [
-            {
-                "text": "ba-arona_1",
-                "icon": "<img src='https://cdn.jsdmirror.cn/gh/Creeper512/resources/emoji/ba/arona_1.webp'>"
-            },
-            {
-                "text": "ba-arona_4",
-                "icon": "<img src='https://cdn.jsdmirror.cn/gh/Creeper512/resources/emoji/ba/arona_2.webp'>"
-            },
-            {
-                "text": "ba-arona_4",
-                "icon": "<img src='https://cdn.jsdmirror.cn/gh/Creeper512/resources/emoji/ba/arona_3.webp'>"
-            },
-            {
-                "text": "ba-arona_4",
-                "icon": "<img src='https://cdn.jsdmirror.cn/gh/Creeper512/resources/emoji/ba/arona_4.webp'>"
-            },
-            {
-                "text": "ba-arona_5",
-                "icon": "<img src='https://cdn.jsdmirror.cn/gh/Creeper512/resources/emoji/ba/arona_5.webp'>"
-            },
-            {
-                "text": "ba-arona_6",
-                "icon": "<img src='https://cdn.jsdmirror.cn/gh/Creeper512/resources/emoji/ba/arona_6.webp'>"
-            },
-            {
-                "text": "ba-arona_7",
-                "icon": "<img src='https://cdn.jsdmirror.cn/gh/Creeper512/resources/emoji/ba/arona_7.webp'>"
-            },
-            {
-                "text": "ba-arona_8",
-                "icon": "<img src='https://cdn.jsdmirror.cn/gh/Creeper512/resources/emoji/ba/arona_8.webp'>"
-            },
-            {
-                "text": "ba-aru",
-                "icon": "<img src='https://cdn.jsdmirror.cn/gh/Creeper512/resources/emoji/ba/aru.webp'>"
-            },
-            {
-                "text": "ba-atsuko",
-                "icon": "<img src='https://cdn.jsdmirror.cn/gh/Creeper512/resources/emoji/ba/atsuko.webp'>"
-            },
-            {
-                "text": "ba-fuuka",
-                "icon": "<img src='https://cdn.jsdmirror.cn/gh/Creeper512/resources/emoji/ba/fuuka.webp'>"
-            },
-            {
-                "text": "ba-hoshino_1",
-                "icon": "<img src='https://cdn.jsdmirror.cn/gh/Creeper512/resources/emoji/ba/hoshino_1.webp'>"
-            },
-            {
-                "text": "ba-hoshino_2",
-                "icon": "<img src='https://cdn.jsdmirror.cn/gh/Creeper512/resources/emoji/ba/hoshino_2.webp'>"
-            },
-            {
-                "text": "ba-koharu",
-                "icon": "<img src='https://cdn.jsdmirror.cn/gh/Creeper512/resources/emoji/ba/koharu.webp'>"
-            },
-            {
-                "text": "ba-midori",
-                "icon": "<img src='https://cdn.jsdmirror.cn/gh/Creeper512/resources/emoji/ba/midori.webp'>"
-            },
-            {
-                "text": "ba-momoi",
-                "icon": "<img src='https://cdn.jsdmirror.cn/gh/Creeper512/resources/emoji/ba/momoi.webp'>"
-            },
-            {
-                "text": "ba-plana_1",
-                "icon": "<img src='https://cdn.jsdmirror.cn/gh/Creeper512/resources/emoji/ba/plana_1.webp'>"
-            },
-            {
-                "text": "ba-plana_2",
-                "icon": "<img src='https://cdn.jsdmirror.cn/gh/Creeper512/resources/emoji/ba/plana_2.webp'>"
-            },
-            {
-                "text": "ba-shiroko_1",
-                "icon": "<img src='https://cdn.jsdmirror.cn/gh/Creeper512/resources/emoji/ba/shiroko_1.webp'>"
-            },
-            {
-                "text": "ba-shiroko_2",
-                "icon": "<img src='https://cdn.jsdmirror.cn/gh/Creeper512/resources/emoji/ba/shiroko_2.webp'>"
-            }
-        ]
-    }
+	"蔚蓝档案": {
+		"type": "image",
+		"container": [
+			{
+				"text": "ba-arona_1",
+				"icon": "<img src='https://cdn.jsdmirror.cn/gh/Creeper512/resources/emoji/ba/arona_1.webp'>"
+			},
+			{
+				"text": "ba-arona_4",
+				"icon": "<img src='https://cdn.jsdmirror.cn/gh/Creeper512/resources/emoji/ba/arona_2.webp'>"
+			},
+			{
+				"text": "ba-arona_4",
+				"icon": "<img src='https://cdn.jsdmirror.cn/gh/Creeper512/resources/emoji/ba/arona_3.webp'>"
+			},
+			{
+				"text": "ba-arona_4",
+				"icon": "<img src='https://cdn.jsdmirror.cn/gh/Creeper512/resources/emoji/ba/arona_4.webp'>"
+			},
+			{
+				"text": "ba-arona_5",
+				"icon": "<img src='https://cdn.jsdmirror.cn/gh/Creeper512/resources/emoji/ba/arona_5.webp'>"
+			},
+			{
+				"text": "ba-arona_6",
+				"icon": "<img src='https://cdn.jsdmirror.cn/gh/Creeper512/resources/emoji/ba/arona_6.webp'>"
+			},
+			{
+				"text": "ba-arona_7",
+				"icon": "<img src='https://cdn.jsdmirror.cn/gh/Creeper512/resources/emoji/ba/arona_7.webp'>"
+			},
+			{
+				"text": "ba-arona_8",
+				"icon": "<img src='https://cdn.jsdmirror.cn/gh/Creeper512/resources/emoji/ba/arona_8.webp'>"
+			},
+			{
+				"text": "ba-aru",
+				"icon": "<img src='https://cdn.jsdmirror.cn/gh/Creeper512/resources/emoji/ba/aru.webp'>"
+			},
+			{
+				"text": "ba-atsuko",
+				"icon": "<img src='https://cdn.jsdmirror.cn/gh/Creeper512/resources/emoji/ba/atsuko.webp'>"
+			},
+			{
+				"text": "ba-fuuka",
+				"icon": "<img src='https://cdn.jsdmirror.cn/gh/Creeper512/resources/emoji/ba/fuuka.webp'>"
+			},
+			{
+				"text": "ba-hoshino_1",
+				"icon": "<img src='https://cdn.jsdmirror.cn/gh/Creeper512/resources/emoji/ba/hoshino_1.webp'>"
+			},
+			{
+				"text": "ba-hoshino_2",
+				"icon": "<img src='https://cdn.jsdmirror.cn/gh/Creeper512/resources/emoji/ba/hoshino_2.webp'>"
+			},
+			{
+				"text": "ba-koharu",
+				"icon": "<img src='https://cdn.jsdmirror.cn/gh/Creeper512/resources/emoji/ba/koharu.webp'>"
+			},
+			{
+				"text": "ba-midori",
+				"icon": "<img src='https://cdn.jsdmirror.cn/gh/Creeper512/resources/emoji/ba/midori.webp'>"
+			},
+			{
+				"text": "ba-momoi",
+				"icon": "<img src='https://cdn.jsdmirror.cn/gh/Creeper512/resources/emoji/ba/momoi.webp'>"
+			},
+			{
+				"text": "ba-plana_1",
+				"icon": "<img src='https://cdn.jsdmirror.cn/gh/Creeper512/resources/emoji/ba/plana_1.webp'>"
+			},
+			{
+				"text": "ba-plana_2",
+				"icon": "<img src='https://cdn.jsdmirror.cn/gh/Creeper512/resources/emoji/ba/plana_2.webp'>"
+			},
+			{
+				"text": "ba-shiroko_1",
+				"icon": "<img src='https://cdn.jsdmirror.cn/gh/Creeper512/resources/emoji/ba/shiroko_1.webp'>"
+			},
+			{
+				"text": "ba-shiroko_2",
+				"icon": "<img src='https://cdn.jsdmirror.cn/gh/Creeper512/resources/emoji/ba/shiroko_2.webp'>"
+			}
+		]
+	},
+	"明日方舟": {
+		"type": "image",
+		"container": [
+			{
+				"text": "Arknights_five-1",
+				"icon": "<img src='https://cdn.jsdmirror.cn/gh/2x-ercha/twikoo-magic@master/image/Arknights_five/five_01.jpg'>"
+			},
+			{
+				"text": "Arknights_five-2",
+				"icon": "<img src='https://cdn.jsdmirror.cn/gh/2x-ercha/twikoo-magic@master/image/Arknights_five/five_02.jpg'>"
+			},
+			{
+				"text": "Arknights_five-3",
+				"icon": "<img src='https://cdn.jsdmirror.cn/gh/2x-ercha/twikoo-magic@master/image/Arknights_five/five_03.jpg'>"
+			},
+			{
+				"text": "Arknights_five-4",
+				"icon": "<img src='https://cdn.jsdmirror.cn/gh/2x-ercha/twikoo-magic@master/image/Arknights_five/five_04.jpg'>"
+			},
+			{
+				"text": "Arknights_five-5",
+				"icon": "<img src='https://cdn.jsdmirror.cn/gh/2x-ercha/twikoo-magic@master/image/Arknights_five/five_05.jpg'>"
+			},
+			{
+				"text": "Arknights_five-6",
+				"icon": "<img src='https://cdn.jsdmirror.cn/gh/2x-ercha/twikoo-magic@master/image/Arknights_five/five_06.jpg'>"
+			},
+			{
+				"text": "Arknights_five-7",
+				"icon": "<img src='https://cdn.jsdmirror.cn/gh/2x-ercha/twikoo-magic@master/image/Arknights_five/five_07.jpg'>"
+			},
+			{
+				"text": "Arknights_five-8",
+				"icon": "<img src='https://cdn.jsdmirror.cn/gh/2x-ercha/twikoo-magic@master/image/Arknights_five/five_08.jpg'>"
+			},
+			{
+				"text": "Arknights_five-9",
+				"icon": "<img src='https://cdn.jsdmirror.cn/gh/2x-ercha/twikoo-magic@master/image/Arknights_five/five_09.jpg'>"
+			},
+			{
+				"text": "Arknights_five-10",
+				"icon": "<img src='https://cdn.jsdmirror.cn/gh/2x-ercha/twikoo-magic@master/image/Arknights_five/five_10.jpg'>"
+			},
+			{
+				"text": "Arknights_five-11",
+				"icon": "<img src='https://cdn.jsdmirror.cn/gh/2x-ercha/twikoo-magic@master/image/Arknights_five/five_11.jpg'>"
+			},
+			{
+				"text": "Arknights_five-12",
+				"icon": "<img src='https://cdn.jsdmirror.cn/gh/2x-ercha/twikoo-magic@master/image/Arknights_five/five_12.jpg'>"
+			},
+			{
+				"text": "Arknights_five-13",
+				"icon": "<img src='https://cdn.jsdmirror.cn/gh/2x-ercha/twikoo-magic@master/image/Arknights_five/five_13.jpg'>"
+			},
+			{
+				"text": "Arknights_five-14",
+				"icon": "<img src='https://cdn.jsdmirror.cn/gh/2x-ercha/twikoo-magic@master/image/Arknights_five/five_14.jpg'>"
+			},
+			{
+				"text": "Arknights_five-15",
+				"icon": "<img src='https://cdn.jsdmirror.cn/gh/2x-ercha/twikoo-magic@master/image/Arknights_five/five_15.jpg'>"
+			},
+			{
+				"text": "Arknights_five-16",
+				"icon": "<img src='https://cdn.jsdmirror.cn/gh/2x-ercha/twikoo-magic@master/image/Arknights_five/five_16.jpg'>"
+			}
+		]
+	}
 }
